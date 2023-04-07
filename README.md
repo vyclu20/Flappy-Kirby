@@ -5,12 +5,14 @@ Project was last updated on: 7 Apr 2023
 
 **This game is still a WIP. Though it is playable because functionality already works, link in description**
 
-##Program information
+## Program information
 
 This game implements a version of the game "Flappy Bird" using HTML canvas and JavaScript. The game involves controlling a bird, Kirby, to navigate through pipes by using a flying star hoverboard while avoiding collisions. The game also includes particle effects and tracks the player's score.
 
 
+
 https://user-images.githubusercontent.com/115472181/230606832-ddc8842e-cbec-4824-bc28-5bf5740c53ac.mp4
+
 
 **A basic rundown of how it works**
 
